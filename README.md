@@ -1,8 +1,6 @@
 ## Hi, I'm Jack! 👋
 
-### About me
-
----
+## About me
 
 - I'm a third year student at TU Dublin
 - I'm studying Computer Science
